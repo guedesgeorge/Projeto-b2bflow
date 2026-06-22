@@ -90,3 +90,9 @@ Saída esperada (logs):
 - Tratamento de erros de rede e **logs** em cada etapa.
 - Código modular: banco, envio e orquestração separados.
 - `timeout` nas requisições HTTP e código de saída coerente (`0` sucesso / `1` falha).
+
+![Demonstração do WhatsApp](image/imagem-whats.jpeg)
+![Demonstração 2](image/imagem-whatsII.jpeg)
+![Demonstração 3](image/imagem-whatsIII.jpeg)
+![Demonstração 2](image/imagem-whatsII.jpeg)
+![Demonstração 3](image/imagem-teste.jpeg)
