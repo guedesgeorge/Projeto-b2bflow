@@ -91,8 +91,6 @@ Saída esperada (logs):
 - Código modular: banco, envio e orquestração separados.
 - `timeout` nas requisições HTTP e código de saída coerente (`0` sucesso / `1` falha).
 
-![Demonstração do WhatsApp](image/imagem-whats.jpeg)
-![Demonstração 2](image/imagem-whatsII.jpeg)
-![Demonstração 3](image/imagem-whatsIII.jpeg)
-![Demonstração 2](image/imagem-whatsII.jpeg)
-![Demonstração 3](image/imagem-teste.jpeg)
+<p align="center">
+  <img src="image/imagem-whats.jpeg" alt="Demonstração do WhatsApp" width="300"/>
+</p>
