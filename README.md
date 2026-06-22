@@ -94,3 +94,11 @@ Saída esperada (logs):
 <p align="center">
   <img src="image/imagem-whats.jpeg" alt="Demonstração do WhatsApp" width="300"/>
 </p>
+
+<p align="center">
+  <img src="image/imagem-whatsII.jpeg" alt="Demonstração do WhatsApp" width="300"/>
+</p>
+
+<p align="center">
+  <img src="image/imagem-whatsIII.jpeg" alt="Demonstração do WhatsApp" width="300"/>
+</p>
