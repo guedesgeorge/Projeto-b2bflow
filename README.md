@@ -94,7 +94,7 @@ Saída esperada (logs):
 # Demostração dos Testes 
 
 <p align="center">
-  <img src="imagem-teste.png" alt="Demonstração do WhatsApp" width="300"/>
+  <img src="image/imagem-teste.png" alt="Demonstração do WhatsApp" width="300"/>
 </p>
 
 <p align="center">
